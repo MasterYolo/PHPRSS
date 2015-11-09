@@ -1,7 +1,3 @@
-<?php
-
-require_once('../autoloader.php');
-?>
 
 <!DOCTYPE html>
 <head>
