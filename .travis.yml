@@ -9,7 +9,7 @@ before_script:
     - wget https://scrutinizer-ci.com/ocular.phar
  
 script:
-    #- phpunit --bootstrap test/config.php test
+    - phpunit --bootstrap test/config.php test
     - phpunit --bootstrap test/config.php --coverage-clover coverage.clover test
  
 after_script:
