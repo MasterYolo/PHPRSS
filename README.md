@@ -7,7 +7,7 @@ To install the package, add "anax-mvc/rss" : dev under "require" in Composer.jso
 composer validate
 composer install
 
-Once installed, copy and paste the files to the Anax-MVC root folde
+Once installed, copy and paste the files to the Anax-MVC root folder.
 
 ##TESTS
 
