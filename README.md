@@ -2,7 +2,7 @@
 
 How to install from Github
 
-To install the package, add "anax-mvc/rss" : dev under "require" in Composer.json and run the following command:
+To install the package, add "anax-mvc/rss" : "dev-master" under "require" in Composer.json and run the following command:
 
 composer validate
 composer install
