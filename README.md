@@ -1,5 +1,14 @@
 # PHPRSS
 
+How to install from Github
+
+To install the package, add "anax-mvc/rss" : dev under "require" in Composer.json and run the following command:
+
+composer validate
+composer install
+
+Once installed, copy and paste the files to the Anax-MVC root folde
+
 ##TESTS
 
 [![Build Status](https://travis-ci.org/MasterYolo/PHPRSS.svg?branch=master)](https://travis-ci.org/MasterYolo/PHPRSS)
